@@ -28,5 +28,5 @@ This project is an AI-based platform that recommends scholarships based on vario
    ```bash
    npm install
 
-![Screenshot (327)](https://github.com/Kshitijgul/Scholarship-Recommendation-System/assets/121358097/7bde8a4b-b8c2-4024-8738-0b042c0341e6)
+
 
